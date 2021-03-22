@@ -1,6 +1,6 @@
 # Python project
 
-What is this project
+Database for Python libraries and commands to help me study and remember what i've learned with search add and modify functions.
 
 ## Installation
 
