@@ -1,6 +1,6 @@
 # Python project
 
-Database for Python libraries and commands to help me study and remember what i've learned with search add and modify functions.
+Database for Python libraries and commands to help me with my study. Will include search, add and modify functions.
 
 ## Installation
 
