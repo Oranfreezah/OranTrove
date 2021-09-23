@@ -11,7 +11,7 @@ python3 menu.py
 
 ## Usage
 
-We're still working on this project
+Project suspended indefinitely
 
 ## Contributing
 Pippo
